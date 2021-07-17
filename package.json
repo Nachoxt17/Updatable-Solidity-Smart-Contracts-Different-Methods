@@ -1,0 +1,22 @@
+{
+  "name": "updatable-solidity-smart-contracts-adaptive-pattern",
+  "version": "0.1.0",
+  "description": "+-Tutorial:_ https://youtu.be/dvhFWtdCuUY",
+  "author": "ignacioceaglio@protonmail.com",
+  "keywords": [
+    "ethereum",
+    "smart",
+    "contracts",
+    "test",
+    "solidity",
+    "hardhat"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "@openzeppelin/contracts": "4.0.0",
+    "@openzeppelin/test-helpers": "*",
+    "@openzeppelin/test-environment": "*",
+    "prettier": "^2.2.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.2"
+  }
+}
